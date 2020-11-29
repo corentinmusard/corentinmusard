@@ -17,7 +17,7 @@ Looking for a job in the matrix.
 - reinstalling Windows after every BSOD
 - worshipping IRC; flaming social networks
 
-### Mics
+### Misc
 - vim > emacs > IDE
 - web is :shit:
 - I like apples
