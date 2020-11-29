@@ -1,6 +1,6 @@
-## Looking for a job in the matrix.
-Motto : `dev first, think last`
-
+```
+Looking for a job in the matrix.
+```
 ### Skills
 - run the "cmatrix" command
 - dev a race condition
@@ -8,7 +8,6 @@ Motto : `dev first, think last`
 - make software with memory leaks
 - make algorithms with exponential complexity
 - test a sofware manually
-- be vulnerable to XSS
 - make cache misses
 - run out of memory
 - never test, deploy without CI
