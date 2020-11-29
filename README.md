@@ -1,16 +1,32 @@
-### Hi there 👋
+## Looking for a job in the matrix.
 
-<!--
-**corentinmusard/corentinmusard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motto : `dev first, think last`
 
-Here are some ideas to get you started:
+### Skills:
+- run the "cmatrix" command
+- make buggy programs
+- dev a race condition
+- crash a process
+- make software with memory leaks
+- make algorithms with exponential complexity
+- test a sofware manually
+- dev a RCE (random code execution)
+- be vulnerable to XSS
+- make cache misses
+- run out of memory
+- create a fork bomb
+- never test, deploy without CI
+- use a custom version management consisting of adding .new suffix to files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies:
+- creating a JavaScript library a week
+- reinstalling Windows after every BSOD
+- worshipping IRC; flaming social networks
+
+### Mics:
+- vim > emacs > IDE
+- web is :shit:
+- bloatware sucks
+- I like apples
+
+![Hi](https://imgs.xkcd.com/comics/bubblegum.png)
